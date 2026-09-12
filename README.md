@@ -232,3 +232,6 @@ This repository serves as the official landing page for A Bootable USB. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of A Bootable USB today!**
+
+---
+**Last updated:** 2026-09-12 13:54:34 UTC
